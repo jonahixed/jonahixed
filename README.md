@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jonah Erhijota
+- 👋 Hi, I’m Jonah Erhijota from Nigeria
 - 👀 I’m a Backend Web developer
 - 👀 I’m interested in UI/UX, Frontend Web development, Mobile Development and Devops
 - 🌱 I’m currently learning Frontend Web development
